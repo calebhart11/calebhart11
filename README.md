@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Data Architecture**
 
-- 👨‍💻 All of my projects are available at [Caleb-Hart.dev](Caleb-Hart.dev)
+- 👨‍💻 All of my projects are available at [caleb-hart-dev.netlify.app](Caleb-Hart.dev)
 
 - 💬 Ask me about **React, Tailwind, Gatsby, Builder.io**
 
